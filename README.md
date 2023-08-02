@@ -8,3 +8,5 @@ convex optimization [CVXOPT](https://cvxopt.org).
 Further requirements are listed in the file `requirements.txt`.
 
 A simulation study is performed on a mixed multinomial logit model for demand estimation.
+
+Feel free to contribute to this project.
